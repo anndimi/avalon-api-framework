@@ -1,0 +1,3 @@
+interface Settings {
+    contents: any;
+}

@@ -1,0 +1,3 @@
+interface Preferences {
+    contents: any;
+}

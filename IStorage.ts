@@ -1,0 +1,3 @@
+interface Storage {
+    contents: any;
+}
