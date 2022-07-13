@@ -1,0 +1,10 @@
+
+{
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "git.confirmSync": false,
+    "editor.formatOnSave": true
+  }
