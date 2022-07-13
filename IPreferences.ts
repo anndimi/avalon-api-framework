@@ -1,3 +1,3 @@
-interface Preferences {
+interface IPreferences {
     contents: any;
 }

@@ -1,3 +1,3 @@
-interface Settings {
+interface ISettings {
     contents: any;
 }

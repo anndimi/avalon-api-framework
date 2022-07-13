@@ -1,3 +1,3 @@
-interface Storage {
+interface IStorage {
     contents: any;
 }
