@@ -1,3 +1,0 @@
-interface IStorage {
-    contents: any;
-}

@@ -1,3 +1,0 @@
-interface IPreferences {
-    contents: any;
-}

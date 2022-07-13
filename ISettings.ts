@@ -1,3 +1,0 @@
-interface ISettings {
-    contents: any;
-}
